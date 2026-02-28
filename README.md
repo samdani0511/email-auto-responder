@@ -1,10 +1,6 @@
 # Email Auto Responder Flow
 
-Welcome to the Email Auto Responder Flow project, powered by [crewAI](https://crewai.com). This example demonstrates how you can leverage Flows from crewAI to automate the process of checking emails and creating draft responses. By utilizing Flows, the process becomes much simpler and more efficient.
-
-## Background
-
-In this project, we've taken one of our old example repositories, [CrewAI-LangGraph](https://github.com/crewAIInc/crewAI-examples/tree/main/CrewAI-LangGraph), and repurposed it to now use Flows. This showcases the power and simplicity of Flows in orchestrating AI agents to automate tasks like checking emails and creating drafts. Flows provide a more straightforward and powerful alternative to LangGraph, making it easier to build and manage complex workflows.
+Welcome to the Email Auto Responder Flow project, powered by [crewAI](https://crewai.com). This project demonstrates how you can leverage Flows from crewAI to automate the process of checking emails and creating draft responses. By utilizing Flows, the process becomes much simpler and more efficient.
 
 ### High-Level Diagram
 
@@ -85,13 +81,3 @@ The email_auto_responder_flow is composed of multiple AI agents, each with uniqu
 
 By understanding the flow structure, you can see how multiple crews are orchestrated to work together, each handling a specific part of the email processing workflow. This modular approach allows for efficient and scalable email automation.
 
-## Support
-
-For support, questions, or feedback regarding the Email Auto Responder Flow or crewAI:
-
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
-
-Let's create wonders together with the power and simplicity of crewAI.
